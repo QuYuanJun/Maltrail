@@ -1,0 +1,699 @@
+# Copyright (c) 2014-2022 Maltrail developers (https://github.com/stamparm/maltrail/)
+# See the file 'LICENSE' for copying permission
+
+# Generic detection for compromised WordPress CMS
+
+# Reference: https://twitter.com/unmaskparasites/status/1355301566933213185
+
+subl.net
+
+# Reference: https://twitter.com/unmaskparasites/status/1367183133938831361
+
+checklist.directory
+
+# Reference: https://twitter.com/unmaskparasites/status/1369733061680586755
+# Reference: https://twitter.com/unmaskparasites/status/1402047210343174146
+# Reference: https://twitter.com/riper81/status/1404487096778170379
+
+blameworthy.buzz
+xn--80a1alg.xn--p1ai
+xn--80a3afwhsk.xn--p1ai
+xn--80aa4ce2a.xn--p1ai
+xn--80ad2akx.xn--p1ai
+xn--80adoej5a8h.xn--p1ai
+xn--80ady8a.xn--p1ai
+xn--80adzf.xn--p1ai
+xn--80ae5bng4au.xn--p1ai
+xn--80ahxth.xn--p1ai
+xn--80aj4ae6d.xn--p1ai
+xn--80aj6ah1a.xn--p1ai
+xn--80amqk.xn--p1ai
+xn--80azck0a.xn--p1ai
+xn--90a7a4a.xn--p1ai
+xn--90a8cf.xn--p1ai
+xn--90achpp5d0c.xn--p1ai
+xn--90aixnm.xn--p1ai
+xn--b1axdhie3a.xn--p1ai
+xn--b1ayb4b.xn--p1ai
+xn--c1ab3awv.xn--p1ai
+xn--c1ae0ahg.xn--p1ai
+xn--c1aeyy.xn--p1ai
+xn--c1alehkf5a3d.xn--p1ai
+xn--c1anqe5e.xn--p1ai
+xn--d1ad5e.xn--p1ai
+xn--e1adtoj.xn--p1ai
+xn--e1annge.xn--p1ai
+xn--g1a1aom.xn--p1ai
+xn--g1a2abr.xn--p1ai
+xn--g1aehqp.xn--p1ai
+xn--g1aey4a.xn--p1ai
+xn--g1asqf.xn--p1ai
+xn--h1aiml3a.xn--p1ai
+xn--h1at3a.xn--p1ai
+xn--i1abh6c.xn--p1ai
+xn--i1aefi6c.xn--p1ai
+xn--i1an6ab.xn--p1ai
+xn--i1avf9a.xn--p1ai
+xn--i1avu.xn--p1ai
+xn--j1alm4a.xn--p1ai
+xn--j1amtse.xn--p1ai
+xn--k1akc5b.xn--p1ai
+xn--k1aty.xn--p1ai
+xn--o1aofd.xn--p1ai
+xn--p1aldhp.xn--p1ai
+xn--q1admt.xn--p1ai
+xn--s1afb.xn--p1ai
+
+# Reference: https://twitter.com/unmaskparasites/status/1370579966069383168
+
+/SMILODON/index.php?view=
+
+# Reference: https://twitter.com/unmaskparasites/status/1376690495477276674
+# Reference: https://www.virustotal.com/gui/ip-address/194.61.25.77/relations
+
+declarebusinessgroup.ga
+dontkinhooot.tw
+lovegreenpencils.ga
+lowerthenskyactive.ga
+strongcapitalads.ga
+talkingaboutfirms.ga
+travelfornamewalking.ga
+travelinskydream.ga
+
+# Reference: https://github.com/hardenedlinux/hardenedlinux-zeek-script/blob/master/scripts/frameworks/intel/OSINT/CYBERCRiME-03-03-19.txt
+
+/SimplePie/Net/IPv5.php
+
+# Reference: https://twitter.com/unmaskparasites/status/1394487078952398848
+
+driverfortnigtly.ga
+
+# Reference: https://twitter.com/unmaskparasites/status/1402346388617236481
+
+digitalclimatestrike.net
+assets.digitalclimatestrike.net
+
+# Reference: https://www.wordfence.com/blog/2021/06/critical-0-day-in-fancy-product-designer-under-active-attack/
+# Reference: https://otx.alienvault.com/pulse/60be1d277d109b2b37060c4c
+
+http://46.53.253.152
+http://69.12.71.82
+http://92.53.124.123
+
+# Reference: https://twitter.com/rootprivilege/status/1470821225542742016
+# Reference: https://lukeleal.com/research/posts/trainresistor-cc-mass-injection/
+# Reference: https://www.virustotal.com/gui/ip-address/45.9.150.64/relations
+
+belonnanotservice.ga
+piterreceiver.ga
+trainresistor.cc
+
+# Reference: https://twitter.com/unmaskparasites/status/1458970080797073413
+
+blngblngs.rocks
+
+# Reference: https://jetpack.com/2022/01/18/backdoor-found-in-themes-and-plugins-from-accesspress-themes/
+# Reference: https://www.virustotal.com/gui/domain/wp-theme-connect.com/detection
+
+wp-theme-connect.com
+
+# Reference: https://twitter.com/unmaskparasites/status/1494462138298953736
+
+cartoonmines.com
+
+# Reference: https://twitter.com/unmaskparasites/status/1499593717845348354
+# Reference: https://twitter.com/unmaskparasites/status/1506671930425823234
+# Reference: https://twitter.com/unmaskparasites/status/1506728492016185348
+# Reference: https://twitter.com/unmaskparasites/status/1507038308789936150
+# Reference: https://twitter.com/unmaskparasites/status/1513575167674355712
+# Reference: https://www.virustotal.com/gui/domain/turnedpro.xyz/relations
+# Reference: https://www.virustotal.com/gui/ip-address/188.213.5.130/relations
+# Reference: https://www.virustotal.com/gui/ip-address/188.213.5.197/relations
+# Reference: https://www.virustotal.com/gui/ip-address/192.187.109.122/relations
+# Reference: https://www.virustotal.com/gui/ip-address/198.204.252.154/relations
+# Reference: https://www.virustotal.com/gui/ip-address/198.13.55.89/relations
+# Reference: https://www.virustotal.com/gui/ip-address/45.67.230.136/relations
+# Reference: https://www.virustotal.com/gui/ip-address/45.77.133.32/relations
+# Reference: https://www.virustotal.com/gui/ip-address/5.134.119.42/relations
+# Reference: https://www.virustotal.com/gui/ip-address/74.91.31.50/relations
+# Reference: https://www.virustotal.com/gui/domain/firstok.xyz/relations
+# Reference: https://www.virustotal.com/gui/domain/officialservicejp.com/relations
+# Reference: https://www.virustotal.com/gui/domain/flyingfishes.online/relations
+# Reference: https://www.virustotal.com/gui/domain/runpenguin.online/relations
+# Reference: https://www.virustotal.com/gui/domain/tophead.online/relations
+# Reference: https://www.virustotal.com/gui/domain/walkdolphin.online/relations
+# Reference: https://qna.habr.com/q/1058482 (Russian)
+
+alltee.buzz
+anonymousfox.co
+anonymousfox.io
+anonymousfox.is
+anonymousfox.mx
+anonymousfox.to
+bigercari.buzz
+createseo.xyz
+golang666.xyz
+golangtools.live
+ezreal333.icu
+firstguide.xyz
+firstok.xyz
+gloryday.work
+hahaha666.xyz
+hellodolly666.xyz
+hellodolly777.xyz
+hellodolly888.xyz
+hellodolly999.xyz
+ok2345678.xyz
+turnedpro.xyz
+officialservicejp.com
+flyingfishes.online
+pinkpigs.online
+runpenguin.online
+tophead.online
+walkdolphin.online
+wtp9999999.xyz
+api.firstguide.xyz
+hello.firstguide.xyz
+hello.hahaha666.xyz
+hello.hellodolly666.xyz
+hello.hellodolly777.xyz
+hello.hellodolly888.xyz
+hello.hellodolly999.xyz
+hello.ok2345678.xyz
+t.createseo.xyz
+s.createseo.xyz
+s.golangtools.live
+s63.createseo.xyz
+seo.createseo.xyz
+seo.gloryday.work
+seo1.createseo.xyz
+seo3.createseo.xyz
+seo1.doim.com
+seo2.gloryday.work
+seo23.firstok.xyz
+seo30-1.firstok.xyz
+seo30-2.firstok.xyz
+seo32.firstok.xyz
+seo35-1.firstok.xyz
+seo35-2.firstok.xyz
+seo50-1.firstok.xyz
+seo50-2.firstok.xyz
+seo50-3.firstok.xyz
+seo601-1.firstok.xyz
+seo601-2.firstok.xyz
+seo801-1.firstok.xyz
+seo802-1.firstok.xyz
+seo803-1.firstok.xyz
+seo804-2.firstok.xyz
+seo805-1.firstok.xyz
+seo806-2.firstok.xyz
+seo808-1.firstok.xyz
+seo809-1.firstok.xyz
+seo810-1.firstok.xyz
+seo811-1.firstok.xyz
+seo82.firstok.xyz
+seo92.firstok.xyz
+a.turnedpro.xyz
+api.turnedpro.xyz
+hello.turnedpro.xyz
+mn.turnedpro.xyz
+seo1.turnedpro.xyz
+seo10.turnedpro.xyz
+seo2.turnedpro.xyz
+seo3.turnedpro.xyz
+seo4.turnedpro.xyz
+seo5.turnedpro.xyz
+seo6.turnedpro.xyz
+seo7.turnedpro.xyz
+seo8.turnedpro.xyz
+seo9.turnedpro.xyz
+track.turnedpro.xyz
+seo45.officialservicejp.com
+seo74.officialservicejp.com
+seo802-8.officialservicejp.com
+seo808-4.officialservicejp.com
+seo824-2.officialservicejp.com
+seo825-1.officialservicejp.com
+seo826-1.officialservicejp.com
+seo86.officialservicejp.com
+seob215.officialservicejp.com
+seoc226.officialservicejp.com
+seo806-7.flyingfishes.online
+seo812-8.flyingfishes.online
+seo36.pinkpigs.online
+seo804-6.pinkpigs.online
+seo809-7.pinkpigs.online
+seo810-6.pinkpigs.online
+seo811-7.pinkpigs.online
+seo814-7.pinkpigs.online
+seo816-5.pinkpigs.online
+seoa256.pinkpigs.online
+seoc246.pinkpigs.online
+seoc256.pinkpigs.online
+seo104.runpenguin.online
+seo35.runpenguin.online
+seo54.runpenguin.online
+seo602-3.runpenguin.online
+seo801-4.runpenguin.online
+seo801-5.runpenguin.online
+seo802-2.runpenguin.online
+seo802-3.runpenguin.online
+seo804-4.runpenguin.online
+seo806-4.runpenguin.online
+seo808-3.runpenguin.online
+seo809-4.runpenguin.online
+seo810-2.runpenguin.online
+seo810-5.runpenguin.online
+seo811-3.runpenguin.online
+seo812-5.runpenguin.online
+seo815-3.runpenguin.online
+seo815-4.runpenguin.online
+seo817-2.runpenguin.online
+seo818-2.runpenguin.online
+seo819-2.runpenguin.online
+seo819-3.runpenguin.online
+seo820-2.runpenguin.online
+seo821-1.runpenguin.online
+seo821-3.runpenguin.online
+seo822-1.runpenguin.online
+seo824-1.runpenguin.online
+seo824-3.runpenguin.online
+seo84.runpenguin.online
+seoa224.runpenguin.online
+seob244.runpenguin.online
+seob255.runpenguin.online
+seoc215.runpenguin.online
+seoc224.runpenguin.online
+seoc244.runpenguin.online
+seoc245.runpenguin.online
+test.runpenguin.online
+seo25.walkdolphin.online
+seo11.tophead.online
+seo51.tophead.online
+seo81.tophead.online
+seoa21.tophead.online
+seoa212.tophead.online
+seoa22.tophead.online
+seoa221.tophead.online
+seoa23.tophead.online
+seoa232.tophead.online
+seoa24.tophead.online
+seoa241.tophead.online
+seoa242.tophead.online
+seoa243.tophead.online
+seoa253.tophead.online
+seob21.tophead.online
+seob213.tophead.online
+seob22.tophead.online
+seob233.tophead.online
+seob251.tophead.online
+seob253.tophead.online
+seoc21.tophead.online
+seoc212.tophead.online
+seoc22.tophead.online
+seoc221.tophead.online
+seoc23.tophead.online
+seoc233.tophead.online
+seoc24.tophead.online
+seoc251.tophead.online
+seoc253.tophead.online
+seo805-4.walkdolphin.online
+seo819-1.walkdolphin.online
+seo820-1.walkdolphin.online
+seo94.walkdolphin.online
+/seeolkxa/
+
+# Reference: https://twitter.com/unmaskparasites/status/1499536320896507906
+# Reference: https://twitter.com/unmaskparasites/status/1511076575537557505
+# Reference: https://twitter.com/unmaskparasites/status/1524843022952804352
+# Reference: https://www.virustotal.com/gui/ip-address/111.90.143.157/relations
+
+classicpartnerships.com
+legendarytable.com
+specialadves.com
+storerightdesicion.com
+ads.specialadves.com
+click.specialadves.com
+links.specialadves.com
+refer.specialadves.com
+blame.storerightdesicion.com
+brr.storerightdesicion.com
+chess.storerightdesicion.com
+glove.storerightdesicion.com
+lin.storerightdesicion.com
+line.storerightdesicion.com
+store.storerightdesicion.com
+avasripts.classicpartnerships.com
+comjavasripts.classicpartnerships.com
+comwalk.classicpartnerships.com
+event.classicpartnerships.com
+events.classicpartnerships.com
+javascript.classicpartnerships.com
+javascripts.classicpartnerships.com
+javasripts.classicpartnerships.com
+open.classicpartnerships.com
+scripts.classicpartnerships.com
+simple.classicpartnerships.com
+thisisatest.classicpartnerships.com
+walk.classicpartnerships.com
+white.classicpartnerships.com
+34trick.legendarytable.com
+clip.legendarytable.com
+clipj.legendarytable.com
+clipjs.legendarytable.com
+comprint.legendarytable.com
+comtrick.legendarytable.com
+jack.legendarytable.com
+print.legendarytable.com
+trick.legendarytable.com
+
+# Reference: https://twitter.com/unmaskparasites/status/1503550611756789760
+
+32868.port0.org
+
+# Reference: https://www.wordfence.com/blog/2022/03/increase-in-malware-sightings-on-godaddy-managed-hosting/
+
+http://166.62.110.72
+t-fish-ka.ru
+
+# Reference: https://medium.com/@cirku17/wp-vcd-malware-analysis-7c5dbaad89c3
+# Reference: https://github.com/CirKu17/wp-vcd-malware-sample
+# Reference: https://twitter.com/BlackLotusLabs/status/1516415946587611137
+# Reference: https://twitter.com/BlackLotusLabs/status/1516415948797976584
+# Reference: https://twitter.com/BlackLotusLabs/status/1516415950396047380
+# Reference: https://blog.prevailion.com/2020/02/phps-labyrinth-weaponized-wordpress.html
+# Reference: http://web.archive.org/web/20200920003035/https:/blog.prevailion.com/2020/02/phps-labyrinth-weaponized-wordpress.html
+# Reference: https://www.virustotal.com/gui/ip-address/94.156.175.170/relations
+# Reference: https://otx.alienvault.com/pulse/596e1049fbe8a2174f3af765
+# Reference: https://otx.alienvault.com/pulse/5e4d6c5790faacd62f7afed6
+# Reference: https://www.virustotal.com/gui/file/cb8d693752fdcf84a77c486dfe04c3d53631cce4f97e5cccfc3c3486e5b10ebd/detection
+
+24x7themes.top
+aotson.com
+arilns.com
+batots.com
+benos.cc
+bomndo.com
+bomndo.xyz
+brilns.com
+catots.pw
+comndo.com
+crilns.com
+dacocs.com
+darors.com
+denom.cc
+derna.cc
+devata.icu
+dlword.press
+dolodos.top
+dolsh.pw
+domndo.com
+download-freethemes.download
+downloadfreenulled.download
+downloadfreethemes.cc
+downloadfreethemes.co
+downloadfreethemes.download
+downloadfreethemes.io
+downloadfreethemes.pw
+downloadfreethemes.space
+downloadnulled.pw
+drilns.pw
+eatots.com
+facocs.com
+fapilo.com
+farors.com
+fatots.com
+fomndo.com
+fonjy.cc
+freedownload.network
+freenulled.top
+freethemes.space
+frilns.com
+gacocs.com
+gapilo.com
+garors.com
+gatots.com
+gomnd.xyz
+gomndo.com
+gomndo.top
+gomndo.xyz
+grilns.com
+hacocs.com
+harors.com
+hatots.com
+hoxford.net
+jarors.com
+jatots.cc
+jomndo.com
+karors.com
+katots.com
+krilns.com
+lanons.com
+larors.com
+latots.pw
+linos.cc
+lomndo.com
+lomndo.top
+lomndo.xyz
+macocs.com
+mapilo.net
+marors.com
+matots.com
+medsource.top
+merna.pw
+mlimus.com
+moxford.cc
+mrilns.com
+narors.com
+natots.pw
+null24.icu
+null5.top
+nulledzip.download
+pacocs.com
+panons.com
+parors.com
+patots.com
+pervas.top
+pharors.pw
+phatots.com
+piastas.gdn
+piasuna.gdn
+plimur.me
+plimur.net
+plimus.info
+plimuz.me
+poxford.com
+premiumfreethemes.top
+prilns.com
+qarors.com
+qatots.com
+rarors.com
+ratots.com
+romndo.com
+sarors.com
+satots.com
+semasa.icu
+spekt.com
+tanons.com
+tarors.com
+tdreg.icu
+tdreg.top
+themesdad.com
+themesfreedownload.net
+themesfreedownload.top
+tomndo.com
+tretas.top
+trilns.com
+uapilo.com
+uarors.com
+uatots.com
+varors.com
+vatots.com
+vomndo.com
+vosmas.icu
+vrilns.com
+vtoras.top
+wacocs.com
+warors.com
+watots.com
+womndo.com
+wpfreedownload.press
+wpmania.download
+wrilns.com
+wrilns.pw
+xapilo.com
+xarors.com
+xatots.com
+yapilo.pw
+yarors.com
+yatots.com
+yomndo.com
+zanons.com
+zarors.com
+zatots.com
+zinos.cc
+zomndo.com
+zoxford.com
+zrilns.com
+zrilns.pw
+
+# Reference: https://twitter.com/felixaime/status/1518527498929254401
+
+ocamw.xyz
+cdn.ocamw.xyz
+
+# Reference: https://twitter.com/unmaskparasites/status/1524093794961960960
+
+drakefollow.com
+clocal.drakefollow.com
+doggy.drakefollow.com
+links.drakefollow.com
+local.drakefollow.com
+out.drakefollow.com
+poll.drakefollow.com
+
+# Reference: https://twitter.com/unmaskparasites/status/1526241349049077761
+
+greengoplatform.com
+creative.greengoplatform.com
+column.greengoplatform.com
+links.greengoplatform.com
+
+# Reference: https://twitter.com/unmaskparasites/status/1530282235630235648
+
+jj99.life
+
+# Reference: https://twitter.com/unmaskparasites/status/1531307100709670912
+
+brandonrestaurant.com
+
+# Reference: https://twitter.com/unmaskparasites/status/1532112174411157504
+
+transportgoline.com
+back.transportgoline.com
+front.transportgoline.com
+track.transportgoline.com
+
+# Reference: https://blog.sucuri.net/2022/06/analysis-massive-ndsw-ndsx-malware-campaign.html
+
+/wp-content/plugins/wp-dumpme/click.php
+/wp-content/plugins/wp-dumpme/clock.php
+/wp-content/plugins/wp-dumpme/tasty.pot
+/wp-content/plugins/wp-pimple/click.php
+/wp-content/plugins/wp-pimple/clock.php
+/wp-content/plugins/wp-sp/class.php
+/wp-content/plugins/wp-sps/class.php
+/wp-content/plugins/wp-sps/simple.php
+/wp-content/plugins/wp-dumpme/
+/wp-content/plugins/wp-pimple/
+/wp-content/plugins/wp-sp/
+/wp-content/plugins/wp-sps/
+
+# Reference: https://twitter.com/momika233/status/1529694086193508353 (# CVE-2022-1609 WordPress Weblizar Backdoor)
+# Reference: https://twitter.com/c3rb3ru5d3d53c/status/1536008762397544448
+
+/wp-json/am-member/license
+
+# Reference: https://twitter.com/unmaskparasites/status/1546896319037333504
+# Reference: https://twitter.com/riper81/status/1559567645313142784
+# Reference: https://www.virustotal.com/gui/ip-address/91.211.91.104/relations
+
+bettershitecolumn.com
+cofounderspecials.com
+cdn.bettershitecolumn.com
+scripts.bettershitecolumn.com
+wpz.cofounderspecials.com
+fly.cofounderspecials.com
+js.cofounderspecials.com
+spectre.cofounderspecials.com
+
+# Reference: https://www.virustotal.com/gui/ip-address/101.99.95.147/relations
+
+brend.specialadves.com
+call.greengoplatform.com
+collect.greengoplatform.com
+comcollect.greengoplatform.com
+comtrack.greengoplatform.com
+find.greengoplatform.com
+flash.greengoplatform.com
+front.greengoplatform.com
+ftrack.greengoplatform.com
+lnks.greengoplatform.com
+local.specialadves.com
+track.greengoplatform.com
+
+# Reference: https://twitter.com/unmaskparasites/status/1552334638999228417
+
+apigooglee.com
+
+# Reference: https://twitter.com/tosscoinwitcher/status/1556698096813232129
+# Reference: https://www.abuseipdb.com/check/51.142.175.104
+
+http://20.254.121.118
+http://51.142.175.104
+51.142.175.104:52970
+/a57bze8931.php
+/savepng.php?location=a57bze8931.php
+
+# Reference: https://blog.sucuri.net/2022/08/fake-ddos-pages-on-wordpress-lead-to-drive-by-downloads.html
+# Reference: https://blog.sucuri.net/2022/09/new-malware-variants-serve-bogus-cloudflare-ddos-captcha.html
+# Reference: https://www.virustotal.com/gui/ip-address/5.42.199.146/relations
+# Reference: https://www.virustotal.com/gui/ip-address/5.42.199.148/relations
+# Reference: https://www.virustotal.com/gui/file/7b72c022d506fc09a22d7721f6f50defd00297f52a89f1000b4f50b273d7f8ff/detection
+
+adogeevent.com
+colliderporn.at
+confirmation.at
+confirmation-process.at
+gloogletag.com
+luxury-limousine.com
+skambio-porte.com
+softlab-sport.com
+trailerstrade.com
+yaritsavodka.com
+cheking.confirmation.at
+gov.confirmation.at
+irs.gov.confirmation.at
+madeformade.confirmation.at
+security-browser.colliderporn.at
+verify.confirmation.at
+
+# Reference: https://twitter.com/unmaskparasites/status/1254766052296122368
+# Reference: https://www.virustotal.com/gui/domain/trackstatisticsss.com/relations
+# Reference: https://www.joesandbox.com/analysis/399034/0/html
+# Reference: https://www.wordfence.com/blog/2020/05/nearly-a-million-wp-sites-targeted-in-large-scale-attacks/
+
+adsforbusines.com
+stivenfernando.com
+ps.stivenfernando.com
+ws.stivenfernando.com
+trackstatisticsss.com
+adware.trackstatisticsss.com
+count.trackstatisticsss.com
+fox.trackstatisticsss.com
+ount.trackstatisticsss.com
+stat.trackstatisticsss.com
+trstat.trackstatisticsss.com
+
+# Reference: https://twitter.com/unmaskparasites/status/1577797497581613056
+# Reference: https://www.virustotal.com/gui/file/dc39ec37839473ae1ad0dd7875205876ee84743609d28f2f4f55716c7659557a/detection
+
+helpotus.com
+/old_source/G1exHX0rYyv/
+/wp-admin/EBxbU7MlIhOM/
+/EBxbU7MlIhOM/
+/G1exHX0rYyv/
+
+# Reference: https://twitter.com/r3dbU7z/status/1586146279167361024
+# Reference: https://blog.sucuri.net/2020/11/alfa-team-shell-v4-1-tesla-a-feature-update-analysis.html
+
+http://87.238.210.44
+
+# Reference: https://twitter.com/unmaskparasites/status/1496246505099108352
+
+effectivecpmgate.com
+trustedcpmrevenue.com
+
+# Reference: https://blog.sucuri.net/2022/11/massive-ois-is-black-hat-redirect-malware-campaign.html
+
+ois.is
